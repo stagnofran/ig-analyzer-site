@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "features": "Características",
+    "how": "Cómo funciona",
+    "screenshots": "Capturas",
+    "faq": "Preguntas",
+    "install": "Agregar a Chrome"
+  },
+  "hero": {
+    "badge": "Extensión gratuita para Chrome",
+    "title": "IG Tracker",
+    "subtitle": "Instagram Follower Analyzer",
+    "tagline": "Conocé. Analizá. Mejorá.",
+    "description": "Descubrí quién te sigue de vuelta, quién no, y cómo cambia tu audiencia con el tiempo. 100% local — sin servidores, sin contraseña, sin tracking.",
+    "ctaPrimary": "Agregar a Chrome — es gratis",
+    "ctaSecondary": "Ver cómo funciona",
+    "stats": {
+      "users": "Usuarios activos",
+      "rating": "Calificación promedio",
+      "private": "Local y privado"
+    }
+  },
+  "features": {
+    "title": "Todo lo que necesitás para entender tu audiencia",
+    "subtitle": "Análisis potente, interfaz hermosa, sin sacrificar tu privacidad.",
+    "items": {
+      "nonFollowers": {
+        "title": "No te siguen de vuelta",
+        "desc": "Descubrí exactamente quién no te sigue y dejá de seguirlos sin que se enteren."
+      },
+      "notFollowingBack": {
+        "title": "No los seguís de vuelta",
+        "desc": "Encontrá las cuentas que seguís y no te siguen de vuelta."
+      },
+      "mutuals": {
+        "title": "Seguimientos mutuos",
+        "desc": "Conectá con quienes te siguen y vos seguís."
+      },
+      "snapshots": {
+        "title": "Historial de snapshots",
+        "desc": "Guardá hasta 20 snapshots por cuenta y compará cambios con el tiempo."
+      },
+      "search": {
+        "title": "Listas filtrables",
+        "desc": "Buscá en cualquier lista por usuario o nombre completo en milisegundos."
+      },
+      "fast": {
+        "title": "Rápido y liviano",
+        "desc": "Un análisis típico de 5.000 seguidores tarda menos de un minuto."
+      }
+    },
+    "badges": {
+      "secure": "100% Seguro",
+      "noPassword": "No te pide la contraseña",
+      "lightweight": "Liviana y rápida",
+      "easy": "Fácil de usar",
+      "updates": "Actualizaciones constantes",
+      "privacy": "Privacidad protegida"
+    }
+  },
+  "how": {
+    "title": "Cómo funciona",
+    "subtitle": "Tres pasos simples. Sin configuración, sin cuenta.",
+    "steps": {
+      "install": {
+        "title": "Instalá la extensión",
+        "desc": "Agregá IG Tracker a Chrome desde la Web Store. Es gratis y tarda 5 segundos."
+      },
+      "open": {
+        "title": "Abrí Instagram",
+        "desc": "Iniciá sesión en tu cuenta de Instagram y hacé click en el ícono de la extensión."
+      },
+      "analyze": {
+        "title": "Analizá cualquier cuenta",
+        "desc": "Escribí un nombre de usuario (el tuyo o cualquier público) y dejá correr. Listo en menos de un minuto."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "Vela en acción",
+    "subtitle": "Una interfaz oscura, limpia y a página completa — pensada para la claridad."
+  },
+  "testimonials": {
+    "title": "Lo que dice la gente",
+    "subtitle": "Feedback real de usuarios reales.",
+    "items": [
+      {
+        "name": "Lucía Fernández",
+        "quote": "Por fin sé quién me sigue de verdad. Lo uso todos los meses para ver cómo evoluciona mi audiencia."
+      },
+      {
+        "name": "Martín Acosta",
+        "quote": "Me encanta que sea 100% local. Sin servidores, sin tracking, sin pedirme la contraseña. Así debería ser todo."
+      },
+      {
+        "name": "Sofía Pereyra",
+        "quote": "Identificar fans y no-recíprocos en segundos es oro. Ya se lo recomendé a varios amigos."
+      },
+      {
+        "name": "Diego Romero",
+        "quote": "Los snapshots son lo mejor. Puedo ver exactamente quién dejó de seguirme después de cada campaña."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacidad primero, siempre",
+    "subtitle": "Tus datos nunca salen de tu dispositivo.",
+    "points": [
+      {
+        "title": "100% local",
+        "desc": "Todo el análisis corre en tu propio navegador. No hay servidor en el medio."
+      },
+      {
+        "title": "Sin contraseña",
+        "desc": "Nunca te pedimos la contraseña de Instagram. La extensión usa tu sesión existente del navegador."
+      },
+      {
+        "title": "Sin tracking",
+        "desc": "No recolectamos analytics, telemetría ni datos personales. Punto."
+      },
+      {
+        "title": "Permisos transparentes",
+        "desc": "Cada permiso de Chrome está documentado y se usa solo para lo estrictamente necesario."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Es realmente gratis?",
+        "a": "Sí. La extensión es 100% gratis, sin versión premium ni publicidad."
+      },
+      {
+        "q": "¿Instagram se va a enterar de que la uso?",
+        "a": "La extensión usa los mismos endpoints públicos que la propia web de Instagram. Nada se deja de seguir automáticamente y ninguna acción se realiza en tu nombre."
+      },
+      {
+        "q": "¿Tengo que darte mi contraseña?",
+        "a": "Nunca. La extensión funciona con tu sesión existente de Instagram en el navegador. Literalmente no podemos leer tu contraseña."
+      },
+      {
+        "q": "¿Dónde se guardan mis datos?",
+        "a": "Localmente, en el almacenamiento del navegador (chrome.storage.local). Nada se sube a ningún lado. Si desinstalás la extensión, los datos se borran."
+      },
+      {
+        "q": "¿Puedo analizar cuentas que no son mías?",
+        "a": "Podés analizar cualquier cuenta pública, o cuentas privadas a las que ya tenés acceso. La extensión obtiene los mismos datos que Instagram ya te muestra."
+      },
+      {
+        "q": "¿Cuántos snapshots puedo guardar?",
+        "a": "Hasta 20 snapshots por cuenta, así podés comparar cambios con el tiempo."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Hecho con cuidado. Local, privado, gratis.",
+    "links": {
+      "store": "Chrome Web Store",
+      "github": "GitHub",
+      "privacy": "Privacidad"
+    },
+    "rights": "Todos los derechos reservados."
+  },
+  "lang": {
+    "switchTo": "Cambiar a inglés"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "screenshots": "Screenshots",
+    "faq": "FAQ",
+    "install": "Add to Chrome"
+  },
+  "hero": {
+    "badge": "Free Chrome Extension",
+    "title": "IG Tracker",
+    "subtitle": "Instagram Follower Analyzer",
+    "tagline": "Know. Analyze. Improve.",
+    "description": "Discover who follows you back, who doesn't, and how your audience changes over time. 100% local — no servers, no password, no tracking.",
+    "ctaPrimary": "Add to Chrome — it's free",
+    "ctaSecondary": "See how it works",
+    "stats": {
+      "users": "Active users",
+      "rating": "Avg. rating",
+      "private": "Local & private"
+    }
+  },
+  "features": {
+    "title": "Everything you need to understand your audience",
+    "subtitle": "Powerful analysis, beautiful interface, zero compromises on privacy.",
+    "items": {
+      "nonFollowers": {
+        "title": "Find non-followers",
+        "desc": "See exactly who doesn't follow you back and unfollow them silently."
+      },
+      "notFollowingBack": {
+        "title": "Not following back",
+        "desc": "Find accounts you follow that don't follow you back."
+      },
+      "mutuals": {
+        "title": "Mutual followers",
+        "desc": "Connect with people who follow you and that you follow."
+      },
+      "snapshots": {
+        "title": "History snapshots",
+        "desc": "Save up to 20 snapshots per account and compare changes over time."
+      },
+      "search": {
+        "title": "Filterable lists",
+        "desc": "Search any list by username or full name in milliseconds."
+      },
+      "fast": {
+        "title": "Fast & lightweight",
+        "desc": "Typical analysis of 5,000 followers takes under a minute."
+      }
+    },
+    "badges": {
+      "secure": "100% Secure",
+      "noPassword": "We don't ask for your password",
+      "lightweight": "Lightweight & fast",
+      "easy": "Easy to use",
+      "updates": "Constant updates",
+      "privacy": "Privacy protected"
+    }
+  },
+  "how": {
+    "title": "How it works",
+    "subtitle": "Three simple steps. No setup, no account.",
+    "steps": {
+      "install": {
+        "title": "Install the extension",
+        "desc": "Add IG Tracker to Chrome from the Web Store. It's free and takes 5 seconds."
+      },
+      "open": {
+        "title": "Open Instagram",
+        "desc": "Log in to your Instagram account, then click the extension icon in your toolbar."
+      },
+      "analyze": {
+        "title": "Analyze any account",
+        "desc": "Type a username (yours or any public one) and let it run. Done in under a minute."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "See it in action",
+    "subtitle": "A clean, dark, full-page interface — built for clarity."
+  },
+  "testimonials": {
+    "title": "What people are saying",
+    "subtitle": "Real feedback from real users.",
+    "items": [
+      {
+        "name": "Lucía Fernández",
+        "quote": "Finally I know who actually follows me. I use it monthly to track how my audience evolves."
+      },
+      {
+        "name": "Martín Acosta",
+        "quote": "Love that it's 100% local. No servers, no tracking, no asking for my password. This is how it should be."
+      },
+      {
+        "name": "Sofía Pereyra",
+        "quote": "Spotting fans and non-followbacks in seconds is gold. Already recommended it to several friends."
+      },
+      {
+        "name": "Diego Romero",
+        "quote": "Snapshots are the best feature. I can see exactly who unfollowed after each campaign."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy first, always",
+    "subtitle": "Your data never leaves your device.",
+    "points": [
+      {
+        "title": "100% local",
+        "desc": "All analysis runs in your own browser. There is no server in between."
+      },
+      {
+        "title": "No password",
+        "desc": "We never ask for your Instagram password. The extension uses your existing browser session."
+      },
+      {
+        "title": "No tracking",
+        "desc": "We don't collect analytics, telemetry, or personal data. Period."
+      },
+      {
+        "title": "Open about permissions",
+        "desc": "Each Chrome permission is documented and used only for what's strictly needed."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Is it really free?",
+        "a": "Yes. The extension is 100% free, with no premium tier and no ads."
+      },
+      {
+        "q": "Will Instagram know I'm using it?",
+        "a": "The extension uses the same public endpoints Instagram's own web app uses. Nothing is unfollowed automatically and no actions are taken on your behalf."
+      },
+      {
+        "q": "Do I need to give you my password?",
+        "a": "Never. The extension works with your existing Instagram browser session. We literally cannot read your password."
+      },
+      {
+        "q": "Where is my data stored?",
+        "a": "Locally, in your browser's storage (chrome.storage.local). Nothing is uploaded anywhere. If you uninstall the extension, the data is gone."
+      },
+      {
+        "q": "Can I analyze accounts that aren't mine?",
+        "a": "You can analyze any public account, or private accounts you have access to. The extension fetches the same data Instagram already shows you."
+      },
+      {
+        "q": "How many snapshots can I save?",
+        "a": "Up to 20 snapshots per account, so you can compare changes over time."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Built with care. Local, private, free.",
+    "links": {
+      "store": "Chrome Web Store",
+      "github": "GitHub",
+      "privacy": "Privacy"
+    },
+    "rights": "All rights reserved."
+  },
+  "lang": {
+    "switchTo": "Switch to Spanish"
+  }
+}
